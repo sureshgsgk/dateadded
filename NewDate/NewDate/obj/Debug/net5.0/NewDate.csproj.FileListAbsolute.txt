@@ -1,0 +1,16 @@
+E:\countCurrency\NewDate\NewDate\bin\Debug\net5.0\NewDate.exe
+E:\countCurrency\NewDate\NewDate\bin\Debug\net5.0\NewDate.deps.json
+E:\countCurrency\NewDate\NewDate\bin\Debug\net5.0\NewDate.runtimeconfig.json
+E:\countCurrency\NewDate\NewDate\bin\Debug\net5.0\NewDate.runtimeconfig.dev.json
+E:\countCurrency\NewDate\NewDate\bin\Debug\net5.0\NewDate.dll
+E:\countCurrency\NewDate\NewDate\bin\Debug\net5.0\ref\NewDate.dll
+E:\countCurrency\NewDate\NewDate\bin\Debug\net5.0\NewDate.pdb
+E:\countCurrency\NewDate\NewDate\obj\Debug\net5.0\NewDate.csproj.AssemblyReference.cache
+E:\countCurrency\NewDate\NewDate\obj\Debug\net5.0\NewDate.GeneratedMSBuildEditorConfig.editorconfig
+E:\countCurrency\NewDate\NewDate\obj\Debug\net5.0\NewDate.AssemblyInfoInputs.cache
+E:\countCurrency\NewDate\NewDate\obj\Debug\net5.0\NewDate.AssemblyInfo.cs
+E:\countCurrency\NewDate\NewDate\obj\Debug\net5.0\NewDate.csproj.CoreCompileInputs.cache
+E:\countCurrency\NewDate\NewDate\obj\Debug\net5.0\NewDate.dll
+E:\countCurrency\NewDate\NewDate\obj\Debug\net5.0\ref\NewDate.dll
+E:\countCurrency\NewDate\NewDate\obj\Debug\net5.0\NewDate.pdb
+E:\countCurrency\NewDate\NewDate\obj\Debug\net5.0\NewDate.genruntimeconfig.cache
